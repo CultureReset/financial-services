@@ -1,3 +1,14 @@
+> **CultureReset fork of [anthropics/financial-services](https://github.com/anthropics/financial-services).** Reference agents, skills and data connectors for financial-services workflows: investment banking, equity research, private equity and wealth management.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/anthropics/financial-services).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Claude for Financial Services
 
 Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management.
